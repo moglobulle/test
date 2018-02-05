@@ -1,0 +1,47 @@
+body
+{
+	background-image: url("img/fond.jpg");
+	text-align: center;
+}
+
+p
+{
+	text-align: center;
+}
+
+.center
+{
+	text-align: center;
+}
+
+.floatright
+ {
+	float: right;
+	border: 3px black solid;
+	box-shadow: 6px 6px 20px black;
+}
+
+.textright
+{
+	text-align: right;
+	font-weight: bold;
+}
+
+h1 
+{
+	font-family: "Allura-Regular";
+	font-size: 3em;
+	text-shadow: 6px 6px 20px black;
+}
+
+h2
+{
+	color: #d87747;
+	font-family: "Allura-Regular";
+}
+
+@font-face
+{
+	font-family: 'Allura-Regular';
+	src :url('font/Allura-Regular.otf');
+}
